@@ -18,8 +18,8 @@
 
 ### Links
 
-- Solution URL: [My-Profile-Card-Solution](https://www.frontendmentor.io/solutions/qr-code-component-solution-FpVU9ltRWE)
-- Live Site URL: [My-Profile-Card-Solution](https://moehtetmyint99.github.io/My-First-Frontend-Mentor-Solution/)
+- Solution URL: [My-Profile-Card-Solution](https://www.frontendmentor.io/solutions/profile-card-component-solution-9EutqyruRn)
+- Live Site URL: [My-Profile-Card-Solution](https://moehtetmyint99.github.io/Profile-Card-Component-Solution/)
 
 ## My process
 
